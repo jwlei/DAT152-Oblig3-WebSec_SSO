@@ -1,0 +1,53 @@
+
+\
+java:S1161":Add the "@Override" annotation above this method signature(‚¨íşÿÿÿÿ8™ö’Íç/
+1
+java:S3626#"Remove this redundant jump.(ûÁİ…
+1
+java:S3626&"Remove this redundant jump.(ûÁİ…
+1
+java:S3626*"Remove this redundant jump.(ûÁİ…
+1
+java:S3626-"Remove this redundant jump.(ûÁİ…
+~
+java:S1989""aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(œåàª8™ö’Íç/
+~
+java:S1989%"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(°°‘û8™ö’Íç/
+}
+java:S1989)"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¸¥¡8™ö’Íç/
+~
+java:S1989,"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(°°‘û8™ö’Íç/
+m
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ş³‚”ûÿÿÿÿ
+\
+java:S11612":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿ8™ö’Íç/
+p
+java:S1989:"SHandle the following exception that could be thrown by "sendRedirect": IOException.(×ÕñĞ8™ö’Íç/
+
+java:S1989<"nHandle the following exceptions that could be thrown by "openIDAuthentication": IOException, ServletException.(ŸÈ‘òûÿÿÿÿ8™ö’Íç/
+Z
+java:S2441M"=Make "AppUser" serializable or don't store it in the session.(êá³±8™ö’Íç/
+u
+java:S1989_"SHandle the following exception that could be thrown by "sendRedirect": IOException.(âùÒúÿÿÿÿ8™ö’Íç/
+p
+java:S1989e"SHandle the following exception that could be thrown by "sendRedirect": IOException.(‹ŞâÁ8™ö’Íç/
+~
+java:S1989i"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(°°‘û8™ö’Íç/
+c
+java:S2441"@Make "OpenIDUser" serializable or don't store it in the session.(·»©ëüÿÿÿÿ8™ö’Íç/
+o
+java:S3012š"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ß¢W
+[
+java:S2441¶"=Make "AppUser" serializable or don't store it in the session.(æô‚8¹ö’Íç/
+f
+java:S1192Q"KDefine a constant instead of duplicating this literal "updaterole" 4 times.(¨†Ù¨úÿÿÿÿ
+`
+java:S1192%"JDefine a constant instead of duplicating this literal "login.jsp" 3 times.(°°‘û
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÍ±
+f	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÍ±
+k	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã«îşÿÿÿÿ
+k	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÁ™áúÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÑÛ¿ıÿÿÿÿ
+l	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÂŒ™şÿÿÿÿ
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã«îşÿÿÿÿ
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó»ù£ùÿÿÿÿ

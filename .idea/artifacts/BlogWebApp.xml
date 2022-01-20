@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="BlogWebApp">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlogWebApp</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BlogWebApp" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="com.google.gson_2.8.7.v20210624-1215" />
+          <element id="library" level="project" name="io.projectreactor.reactor-core_3.3.1.202003091750-RELEASE" />
+          <element id="library" level="project" name="jjwt-api-0.11.2" />
+          <element id="library" level="project" name="jjwt-impl-0.11.2" />
+          <element id="library" level="project" name="jsoup" />
+          <element id="library" level="project" name="Maven: com.sun.mail:javax.mail:1.6.2" />
+          <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+          <element id="library" level="project" name="Maven: org.apiguardian:apiguardian-api:1.1.0" />
+          <element id="library" level="project" name="Maven: org.eclipse.persistence:commonj.sdo:2.1.1" />
+          <element id="library" level="project" name="Maven: org.eclipse.persistence:eclipselink:2.7.9" />
+          <element id="library" level="project" name="Maven: org.eclipse.persistence:jakarta.persistence:2.2.3" />
+          <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.1" />
+          <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-engine:1.7.1" />
+          <element id="library" level="project" name="org.jsoup_1.8.3.v20181012-1713" />
+          <element id="library" level="project" name="org.apache.commons.codec_1.14.0.v20200818-1422" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="BlogWebApp/web/Web" />
+    </root>
+  </artifact>
+</component>

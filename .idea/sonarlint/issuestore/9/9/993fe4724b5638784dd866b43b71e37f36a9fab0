@@ -1,0 +1,22 @@
+
+>
+java:S1481;"(Remove this unused "sql" local variable.(¨À£ì
+A
+java:S1481F"&Remove this unused "s" local variable.(ƒÁ¬¼ùÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¯À·øÿÿÿÿ
+t
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¯À·øÿÿÿÿ
+t
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¯À·øÿÿÿÿ
+_
+java:S1192,"IDefine a constant instead of duplicating this literal "datetime" 3 times.(íÛØÅ
+e
+java:S1192-"JDefine a constant instead of duplicating this literal "searchkey" 3 times.(“ø®‚üÿÿÿÿ
+_
+java:S1192,"IDefine a constant instead of duplicating this literal "username" 3 times.(íÛØÅ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ú”Š
+k	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õí¨ûÿÿÿÿ
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ëìûÿÿÿÿ
+j
+java:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(—”Ü¡øÿÿÿÿ

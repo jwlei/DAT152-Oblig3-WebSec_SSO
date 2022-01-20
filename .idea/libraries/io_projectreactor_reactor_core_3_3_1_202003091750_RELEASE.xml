@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="io.projectreactor.reactor-core_3.3.1.202003091750-RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../IntelliJ_Misc/Plugins-from-Eclipse/io.projectreactor.reactor-core_3.3.1.202003091750-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

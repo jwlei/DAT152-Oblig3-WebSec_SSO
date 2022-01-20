@@ -1,0 +1,15 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ïã¡İşÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ïã¡İşÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(°õÆòûÿÿÿÿ
+j	java:S116"URename this field "opted_root" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯İ¾ 
+q
+java:S3008"[Rename this field "DEFAULT_DICT_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´´ñ
+Z
+java:S2147"DCombine this catch with the one at line 25, which has the same body.(ï­£Ä
+~
+java:S1488""cImmediately return this expression instead of assigning it to the temporary variable "oppforinger".(ä‡µ“şÿÿÿÿ
+r
+java:S1104"\Make DEFAULT_DICT_URL a static final constant or non-public and provide accessors if needed.(´´ñ
+L
+java:S1444"6Make this "public static DEFAULT_DICT_URL" field final(´´ñ

@@ -1,0 +1,23 @@
+
+U
+java:S1161!":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ
+|
+java:S1989*"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ŠÓğ¿øÿÿÿÿ
+|
+java:S19895"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ŠÓğ¿øÿÿÿÿ
+|
+java:S1989:"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ŠÓğ¿øÿÿÿÿ
+|
+java:S1989]"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ŠÓğ¿øÿÿÿÿ
+P
+java:S1161f":Add the "@Override" annotation above this method signature(‹¨¯¿
+z
+java:S1989h"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(®Ó‘ûÿÿÿÿÿ
+e
+java:S1192*"JDefine a constant instead of duplicating this literal "index.jsp" 5 times.(ŠÓğ¿øÿÿÿÿ
+c
+java:S1192)"HDefine a constant instead of duplicating this literal "message" 5 times.(ÚÃıÿÿÿÿ
+k	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şõ˜ùÿÿÿÿÿ
+k	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şõ˜ùÿÿÿÿÿ
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©İ¡Êşÿÿÿÿ
+k	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¯˜ˆúÿÿÿÿ
